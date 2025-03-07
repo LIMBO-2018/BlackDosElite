@@ -85,4 +85,3 @@ python main.py
 ## 📜 License
 
 MIT License - Professional use
-```

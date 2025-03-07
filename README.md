@@ -58,13 +58,6 @@ python main.py
 - Multi-core processor
 - 4GB+ RAM
 
-## 🔧 Advanced Configuration
-
-```python
-# Custom attack configuration
-amplification_factor = 1000
-payload_sizes = [1024, 2048, 4096, 8192, 16384, 32768, 65500]
-```
 
 ## 🌟 Upcoming Features
 

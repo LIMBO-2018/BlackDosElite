@@ -42,12 +42,7 @@ python main.py
 ╚══════════════════════════════════════════════════════╝
 ```
 
-## 🎯 Usage Example
 
-```python
-attacker = BlackDosElite()
-attacker.launch_attack("target.com", 80, 1000)
-```
 
 ## 🚀 Performance Metrics
 
